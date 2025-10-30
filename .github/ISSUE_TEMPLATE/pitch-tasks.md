@@ -2,7 +2,8 @@
 name: Pitch & Tasks
 about: Template for pitches and task tracking
 title: ''
-labels: 'issue-type: Pitch-Tasks'
+labels: ''
+type: 'Pitch-Tasks'
 assignees: ''
 ---
 

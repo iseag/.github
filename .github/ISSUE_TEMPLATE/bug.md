@@ -2,7 +2,8 @@
 name: Bug Report
 about: Report a bug to help us improve
 title: ''
-labels: 'issue-type: Bug'
+labels: 'bug'
+type: 'Bug'
 assignees: ''
 ---
 
