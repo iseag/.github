@@ -21,6 +21,6 @@ type: bug
 
 ## Steps to reproduce
 - do this
-- than that
+- then that
 
 # Suggested Solution (optional)
